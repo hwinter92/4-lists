@@ -1,3 +1,16 @@
 html {
     background-color: lemonchiffon;
 }
+
+.square-list {
+    list-style-type: square;
+    color: darkmagenta;
+}
+
+.letters-list {
+    list-style-type: upper-alpha;
+}
+
+.nav {
+    list-style-type: none;
+}
