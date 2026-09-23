@@ -13,4 +13,7 @@ html {
 
 .nav {
     list-style-type: none;
+    background-color: lightpink;
+    padding: 30px;
+    margin-bottom: 100px;
 }
